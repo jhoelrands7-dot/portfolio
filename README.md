@@ -1,37 +1,44 @@
 # Jhoel Ericlis Rands — Portfólio
 
-**Estrategista e arquiteto de soluções · TBR Brasil · São Paulo · 29 anos**
+**Infraestrutura & operação · TBR Brasil · São Paulo · 29 anos**
 
-Sou a mente por trás da tecnologia da **TBR Brasil**. Penso o problema, desenho a arquitetura, defino a metodologia — e orquestro a execução até o resultado funcionando de ponta a ponta. O que me move é transformar dados brutos em respostas verificáveis e tecnologia em impacto concreto.
+Sou o responsável pela infraestrutura que faz a tecnologia da **TBR Brasil** funcionar do jeito certo: servidores, pipelines, automações, banco de dados e a operação que mantém tudo de pé, estável e seguro. Penso o problema de infraestrutura, desenho a arquitetura, automatizo o processo — e garanto que roda de ponta a ponta, todo dia.
 
-> Este é um portfólio de visão e metodologia. Os repositórios de código e as bases de dados permanecem privados — por aqui, você entende o *quê* e o *porquê* de cada projeto, sem expor a implementação.
+> Este é um portfólio de visão e metodologia. Os repositórios de código e as bases de dados permanecem privados — por aqui, você entende *o quê* e *como* sustentam cada projeto, sem expor a implementação.
 
 ---
 
-## O que construí
+## Onde eu atuo
 
-O **LuxVerso** é o ecossistema de projetos que desenvolvi na TBR Brasil — inteligência artificial e ciência de dados aplicadas a problemas reais do Brasil.
+Os projetos abaixo foram **idealizados e são liderados pelo Vinícius Buri Lux**. Minha contribuição é a espinha dorsal que os sustenta: a infraestrutura, a automação e a operação contínua por trás de cada um.
 
 ### 🔬 LuxProbe — Motor de busca no corpus científico
-Busca local sobre **554.604 obras científicas brasileiras**, em 7 setores. Respostas baseadas em fontes verificáveis, sem usar tokens de IA para a busca — o índice resolve.
+Busca local sobre **554.604 obras científicas brasileiras**, em 7 setores.
+**Meu papel:** servidor, índice, deploy e a operação que mantém a busca respondendo sem depender de tokens.
 
 ### 📊 Corpus BR — Inteligência multissetorial
-A base do ecossistema. Um banco unificado de ciência brasileira: 554.604 trabalhos, 1,4M de pesquisadores, 39K instituições e 3,6M de conexões. Governado pelo ciclo **ASIE** (Aquisição → Sistematização → Interpretação → Exploração).
+Base unificada de ciência brasileira: 554.604 trabalhos, 1,4M pesquisadores, 39K instituições, 3,6M conexões.
+**Meu papel:** pipeline de coleta/normalização, banco de dados, e o ciclo **ASIE** rodando em produção.
 
 ### 🛰️ GhostWorks — Transformação territorial
-Índice de Transformação Territorial (TTI) que mede mudanças no uso do solo brasileiro usando IA sobre imagens de satélite. **Paper aceito no IJCAI-ECAI 2026.**
+Índice de Transformação Territorial (TTI) via IA sobre imagens de satélite.
+**Meu papel:** infraestrutura para processamento pesado de imagens e o ambiente onde o modelo roda.
 
 ### 🔬 LuxSense — Espectroscopia Raman
-Modelo de aprendizado de máquina que interpreta exames espectroscópicos em frações de segundo, direto do equipamento. **99,4% de acurácia** validada em laboratório.
+Modelo de ML que interpreta exames espectroscópicos (99,4% acurácia).
+**Meu papel:** infraestrutura para inferência em tempo real, direto do equipamento.
 
 ### 🧠 MISB — Estabilidade de identidade em IA
-Teste que mede o quanto um modelo de IA mantém suas convicções sob pressão social e manipulação de contexto. Nota de 0 a 1 contra 6 formas de pressão.
+Teste que mede consistência de uma IA sob 6 formas de pressão.
+**Meu papel:** ambiente de execução e o harness que roda as avaliações.
 
 ### ⚡ n8n — Automação de workflows
-Dezenas de processos automatizados em servidor próprio: coleta, monitoramento, alertas e publicação contínua. Zero dados sensíveis em servidores de terceiros.
+Dezenas de processos automatizados em servidor próprio.
+**Meu papel:** servidor, Postgres, Redis, monitoramento e alertas — zero dados em terceiros.
 
 ### ⚡ NovaLux — O arquiteto autônomo
-O sistema de IA que projeta, desenvolve e coloca no ar cada peça do ecossistema — da pesquisa à arquitetura, do código ao deploy.
+Sistema de IA que projeta e coloca no ar cada peça do ecossistema.
+**Meu papel:** a infraestrutura sobre a qual esse agente opera com autonomia.
 
 ---
 
@@ -47,16 +54,16 @@ O sistema de IA que projeta, desenvolve e coloca no ar cada peça do ecossistema
 
 ## Metodologia
 
-Um padrão comum atravessa todos os projetos:
+Um padrão comum atravessa toda a infraestrutura que construo:
 
-1. **Pesquisar** — entender o problema e o estado da arte antes de qualquer decisão.
-2. **Projetar** — definir dados, fluxo e infraestrutura antes de executar.
-3. **Executar** — automatizar a coleta e o processamento.
-4. **Verificar** — validar com dados reais, não com suposições.
-5. **Manter** — monitorar e ajustar continuamente.
+1. **Projetar** — definir a arquitetura antes de executar.
+2. **Automatizar** — nada manual; pipelinar coleta, deploy e monitoramento.
+3. **Proteger** — zero dados sensíveis fora da nossa infraestrutura.
+4. **Monitorar** — verificação contínua de saúde, com alertas.
+5. **Manter** — operar de forma estável, dia após dia.
 
 ---
 
-*Aprendizados que carrego: evidência antes de opinião, ciclo completo da coleta ao sistema no ar, e fidelidade ao dado — a resposta vale o que a fonte valer.*
+*Aprendizados que carrego: operação confiável acima de brilho pontual, infraestrutura que fica de pé sem supervisão, e a disciplina de validar com evidência antes de declarar pronto.*
 
-Contato via [luxverso.tbrbrasil.com.br](https://luxverso.tbrbrasil.com.br).
+Contato: **jhoel@tbrbrasil.com.br** · [luxverso.tbrbrasil.com.br](https://luxverso.tbrbrasil.com.br)
